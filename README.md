@@ -1,8 +1,8 @@
-# API Documentation Portfolio — Starter Repository
+# API Documentation Portfolio — Legacy Workspace
 
 [English](README.md) | [Русский](README.ru.md)
 
-> **Status:** legacy starter repository. This repository is not the primary API portfolio and should not be confused with the expanded [API Documentation Portfolio V2](https://github.com/ekatmoz88-alt/api-docs-portfolio-v2).
+> **Status:** legacy documentation workspace for the real Orders API project. This repository is not the primary API portfolio and should not be confused with the expanded [API Documentation Portfolio V2](https://github.com/ekatmoz88-alt/api-docs-portfolio-v2).
 
 ## Purpose
 
@@ -17,7 +17,7 @@ Use [API Documentation Portfolio V2](https://github.com/ekatmoz88-alt/api-docs-p
 
 ## Scope and evidence
 
-This repository is retained as an earlier working artifact. No production service or complete API implementation is claimed here.
+This repository preserves early OpenAPI documentation artefacts for the real Orders API project. The deployed API implementation and expanded documentation are maintained in [API Documentation Portfolio V2](https://github.com/ekatmoz88-alt/api-docs-portfolio-v2).
 
 ## Tags
 
